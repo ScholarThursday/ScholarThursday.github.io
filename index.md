@@ -1,3 +1,4 @@
-cd ScholarTuesday.github.io
-
-echo "Hello World" > index.html
+---
+layout: default 
+title: index 
+---
